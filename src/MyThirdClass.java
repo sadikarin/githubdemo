@@ -5,9 +5,8 @@ public class MyThirdClass {
         System.out.println(sum);
 
 
-        String str="Java";
-        
-        
+        int z=10;
+
         System.out.println("his is remote repo code");
     }
 
